@@ -1,0 +1,5 @@
+numpy
+matplotlib
+torch
+gymnasium; platform_system != "Windows"
+gym; platform_system == "Windows"
